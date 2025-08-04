@@ -66,6 +66,7 @@ $ make all
 $ ./proxy <port_number>
 ```
 ##  Demo
+<img width="1913" height="1074" alt="demo" src="https://github.com/user-attachments/assets/fa7abb9b-f1e6-4014-ac23-079140596a26" />
 
-![demo](./demo.gif)
+
 
