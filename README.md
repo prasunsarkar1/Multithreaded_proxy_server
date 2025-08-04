@@ -67,5 +67,5 @@ $ ./proxy <port_number>
 ```
 ##  Demo
 
-![Demo](./demo.gif)
+![demo](./demo.gif)
 
