@@ -65,5 +65,7 @@ $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port_number>
 ```
-### DEMO
+##  Demo
+
+![Demo](./demo.gif)
 
